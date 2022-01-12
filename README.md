@@ -17,4 +17,4 @@ Powerfull scripts to bypass windows defender
 
 
 
-Only for educational purposes...........
+#Only for educational purposes.
