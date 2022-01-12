@@ -18,3 +18,6 @@ Powerfull scripts to bypass windows defender
 
 
 ## Only for educational purposes.
+
+Credits:- @
+https://github.com/swagkarna
